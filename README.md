@@ -5,7 +5,7 @@
 -->
 ## WELCOME TO MY GITHUB PROFILE
 
-- 🔭 I’m currently working on building projects, enhancing my portfolio, abd expanding my knowledge about data analysis.
+- 🔭 I’m currently working on building projects, enhancing my portfolio, and expanding my knowledge about data analysis.
 - 🌱 I’m currently Learning Data Analysis and Business Intelligence.
 - 👯 I’m looking to collaborate on anything that can help me build my skills in Data Analysis.
 - 🤔 I’m looking for help with Data gigs 🌚🌚.
