@@ -3,7 +3,7 @@
 <!--
 **datakluesmann/datakluesmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##WELCOME TO MY GITHUB PROFILE
+## WELCOME TO MY GITHUB PROFILE
 
 - 🔭 I’m currently working on building projects, enhancing my portfolio, abd expanding my knowledge about data analysis.
 - 🌱 I’m currently Learning Data Analysis and Business Intelligence.
