@@ -1,7 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw1JlIqvZQhiyalAKDpWissD&ust=1682892532237000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCquq-N0P4CFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://www.mastersindatascience.org/wp-content/uploads/sites/54/2022/05/5977_data-vis-hero-p1.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Henry Adedokun</h1>
 <h3 align="center">A Data Analyst Passionate About Learning and Impacting Knowledge.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1404824005/vector/data-processing.jpg?s=612x612&w=is&k=20&c=P9PzS7zHeUfqrW_fQ93huYb5Quzvv0Zon_9PO2Tv2YM=">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk1YzE1NzI2OGQwOGEwNThlNzIzYTJiNTI3ZTJjYzY1NDE5NDQ1MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datakluesmann&label=Profile%20views&color=0e75b6&style=flat" alt="datakluesmann" /> </p>
 
